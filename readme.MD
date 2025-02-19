@@ -8,9 +8,9 @@ To run Solution #1, ensure that the transformers package is installed.
 
 ### Steps
 
-Download the model files and store them locally from the following link:Qwen/Qwen2.5-VL-7B-Instruct
+1. Download the model files and store them locally from the following link:Qwen/Qwen2.5-VL-7B-Instruct
 
-Use the model path to initialize the Captcha class.
+2. Use the model path to initialize the Captcha class.
 
 Solution #2 (Not Implemented)
 
